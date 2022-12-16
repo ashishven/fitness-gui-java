@@ -1,0 +1,11 @@
+Summary for: 2022-07-22
+Total Calories Burnt: 2158
+
+          Activity	       Duration	       Distance	 Calories Burnt
+
+1.         Walking	      1.0 Hours	         1.0 Km	            117
+2.         Walking	      1.0 Hours	   500.0 Meters	            117
+3.         Dancing	   15.0 Minutes	   100.0 Meters	             73
+4.         Dancing	   90.0 Minutes	   600.0 Meters	            441
+5.         Running	      2.0 Hours	         1.0 Km	            705
+6.         Running	      2.0 Hours	         1.0 Km	            705
